@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Introducao-entrada-saida-dados/01-Introducao-entrada-saida-dados.iml" filepath="$PROJECT_DIR$/01-Introducao-entrada-saida-dados/01-Introducao-entrada-saida-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Introducao-classes-objetos-metodos/02-Introducao-classes-objetos-metodos.iml" filepath="$PROJECT_DIR$/02-Introducao-classes-objetos-metodos/02-Introducao-classes-objetos-metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01-Introdução/print.iml" filepath="$PROJECT_DIR$/01-Introdução/print.iml" />
     </modules>
   </component>
 </project>
