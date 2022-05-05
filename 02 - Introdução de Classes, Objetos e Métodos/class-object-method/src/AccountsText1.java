@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class AccountText {
+public class AccountsText1 {
 
     public static void main(String[] args) {
 
