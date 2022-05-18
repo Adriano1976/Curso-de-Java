@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/JOptionPane/JOptionPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/01 - Introdução de Entrada e Saída de dados/System-out-print/System-out-print.iml" filepath="$PROJECT_DIR$/01 - Introdução de Entrada e Saída de dados/System-out-print/System-out-print.iml" />
       <module fileurl="file://$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/class-object-method/class-object-method.iml" filepath="$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/class-object-method/class-object-method.iml" />
     </modules>
