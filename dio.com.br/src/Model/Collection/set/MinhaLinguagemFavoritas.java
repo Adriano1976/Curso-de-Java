@@ -9,7 +9,7 @@ e) Nome, ano de criação e IDE;
 Ao final, exiba as linguagens no console, um abaixo da outra.
  */
 
-package Model.Collection.Set;
+package Model.Collection.set;
 
 import java.util.*;
 

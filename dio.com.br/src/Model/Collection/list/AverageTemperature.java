@@ -3,7 +3,7 @@
 - Após isto, calcule a média semestral das temperaturas e mostre todas as temperaturas acima da média.
  */
 
-package Model.Collection.List;
+package Model.Collection.list;
 
 import java.util.ArrayList; // Deve ser usado onde mais operações de pesquisa são necessárias.
 import java.util.Iterator;

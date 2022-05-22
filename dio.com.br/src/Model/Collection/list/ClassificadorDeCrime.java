@@ -12,7 +12,7 @@
 - Caso contrário, ela será classificada como "Inocente".
  */
 
-package Model.Collection.List;
+package Model.Collection.list;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -3,14 +3,14 @@
 (nome - sobrenome - sexo - cor - idade
  */
 
-package Model.Collection.List;
+package Model.Collection.list;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-// Classe responsável por executar as ações da classes de implementações e comparações de dados.
+// Classe responsável por executar as ações das classes de implementações e comparações de dados.
 public class ListAlunos {
     public static void main(String[] args) {
 
@@ -29,35 +29,51 @@ public class ListAlunos {
         alunos.sort(Comparator.comparing(Aluno::getIdade));
 
         System.out.println("\n---------------\tOrdem de Inserção\t---------------");
-        System.out.println(alunos);
+        for (Aluno a : alunos){
+            System.out.println(a);
+        }
 
         System.out.println("\n---------------\tOrdem de Aleatória\t---------------");
         Collections.shuffle(alunos);
-        System.out.println(alunos);
+        for (Aluno a : alunos){
+            System.out.println(a);
+        }
 
         System.out.println("\n---------------\tOrdem de Natural (Nome)\t---------------");
         Collections.sort(alunos);
-        System.out.println(alunos);
+        for (Aluno a : alunos){
+            System.out.println(a);
+        }
 
         System.out.println("\n---------------\tOrdem de Sobrenome\t---------------");
         alunos.sort(new ComparatorSobrenome());
-        System.out.println(alunos);
+        for (Aluno a : alunos){
+            System.out.println(a);
+        }
 
         System.out.println("\n---------------\tOrdem de Sexo\t---------------");
         alunos.sort(new ComparatorSexo());
-        System.out.println(alunos);
+        for (Aluno a : alunos){
+            System.out.println(a);
+        }
 
         System.out.println("\n---------------\tOrdem de Cor\t---------------");
         alunos.sort(new ComparatorCor());
-        System.out.println(alunos);
+        for (Aluno a : alunos){
+            System.out.println(a);
+        }
 
         System.out.println("\n---------------\tOrdem de Idade\t---------------");
         alunos.sort(new ComparatorIdade());
-        System.out.println(alunos);
+        for (Aluno a : alunos){
+            System.out.println(a);
+        }
 
         System.out.println("\n---------------\tOrdem por Nome/Cor/Idade\t---------------");
         alunos.sort(new ComparatorNomeSobrenomeSexoCorIdade());
-        System.out.println(alunos);
+        for (Aluno a : alunos){
+            System.out.println(a);
+        }
     }
 }
 
