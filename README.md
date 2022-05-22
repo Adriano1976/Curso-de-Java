@@ -1,4 +1,4 @@
-# Curso-de-Java
+# Curso de Programação em Java
 
 ![image](https://user-images.githubusercontent.com/17755195/169678615-4e1c8c20-0539-4e5a-89c9-28c9e96792b1.png)
 
