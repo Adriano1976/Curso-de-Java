@@ -9,17 +9,17 @@ Na pasta dio.com.br encontra-se algumas resoluções dos exercícios propostos d
 
 🔸 Visão geral com alguns exemplates de programas simples que mostram como usar: Java Collections Framework.
 
-🔸 List ->
+🔸 [List](https://github.com/Adriano1976/Curso-de-Java/tree/main/dio.com.br/src/Model/Collection/list) ->
 Coleção com iterações ordenadas: List - 
 Conhecendo alguns dos métodos,
 Ordenação de dados por meio da coleção List.
 
-🔸 Set ->
+🔸 [Set](https://github.com/Adriano1976/Curso-de-Java/tree/main/dio.com.br/src/Model/Collection/set) ->
 Coleção com singularidade: Set - 
 Conhecendo alguns dos métodos,
 Ordenação de dados por meio da coleção Set.
 
-🔸 Map ->
+🔸 [Map](https://github.com/Adriano1976/Curso-de-Java/tree/main/dio.com.br/src/Model/Collection/map) ->
 Coleção de pares: Map - 
 Conhecendo alguns dos métodos,
 Ordenação dos dados por meio da coleção Map.
