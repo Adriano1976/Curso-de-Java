@@ -5,7 +5,7 @@
 
 package Model.Collection.list;
 
-import java.util.ArrayList;
+import java.util.ArrayList; // Deve ser usado onde mais operações de pesquisa são necessárias.
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;

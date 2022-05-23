@@ -10,7 +10,7 @@ g) Limpe o conjunto;
 h) Confira se o conjunto está vazio;
  */
 
-package Model.Collection.set;
+package Model.Collection.set; // Não permite elementos duplicados e nem possui índice.
 
 import java.util.*;
 

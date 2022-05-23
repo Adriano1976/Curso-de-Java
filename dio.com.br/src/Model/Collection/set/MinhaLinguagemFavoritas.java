@@ -9,7 +9,7 @@ e) Nome, ano de criação e IDE;
 Ao final, exiba as linguagens no console, um abaixo da outra.
  */
 
-package Model.Collection.set;
+package Model.Collection.set; // Não permite elementos duplicados e nem possui índice.
 
 import java.util.*;
 
