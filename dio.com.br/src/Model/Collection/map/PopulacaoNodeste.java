@@ -6,7 +6,7 @@ Dada a população estimada de alguns estados do nordeste brasileiro, faça:
  Estado = RN - população = 3.534.265
  */
 
-package Model.Collection.map;
+package Model.Collection.map; // Elementos únicos (key) para cada valor (value)
 
 import java.util.*;
 
