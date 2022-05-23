@@ -24,7 +24,7 @@ Coleção de pares: Map -
 Conhecendo alguns dos métodos,
 Ordenação dos dados por meio da coleção Map.
 
-🔸 Stream API ->
+🔸 [Stream API](https://github.com/Adriano1976/Curso-de-Java/tree/main/dio.com.br/src/Model/Collection/streamAPI) ->
 Visão geral: Classe Anônima - Functional Interface - Lambda - Method Reference,
 Stream API e
 Conhecendo as operações.
