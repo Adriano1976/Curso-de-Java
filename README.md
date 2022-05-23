@@ -7,24 +7,23 @@ como também alguns exemplares de programas usando, classes, métodos e interfac
 
 Na pasta dio.com.br encontra-se algumas resoluções dos exercícios propostos do CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA. Curso este oferecido pela plataforma de cursos online [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/home) e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java da trilho do Bootcamps da GFT.
 
-🔸 Visão geral com alguns exemplates de programas simples que mostram como usar: Java Collections Framework
-
+🔸 Visão geral com alguns exemplates de programas simples que mostram como usar: Java Collections Framework.
 🔸 List
-Coleção com iterações ordenadas: List
-Conhecendo alguns dos métodos
-Ordenação de dados por meio da coleção List
+Coleção com iterações ordenadas: List - 
+Conhecendo alguns dos métodos,
+Ordenação de dados por meio da coleção List.
 
 🔸 Set
-Coleção com singularidade: Set
-Conhecendo alguns dos métodos
-Ordenação de dados por meio da coleção Set
+Coleção com singularidade: Set - 
+Conhecendo alguns dos métodos,
+Ordenação de dados por meio da coleção Set.
 
 🔸 Map
-Coleção de pares: Map
-Conhecendo alguns dos métodos
-Ordenação dos dados por meio da coleção Map
+Coleção de pares: Map - 
+Conhecendo alguns dos métodos,
+Ordenação dos dados por meio da coleção Map.
 
 🔸 Stream API
-Visão geral: Classe Anônima - Functional Interface - Lambda - Method Reference
-Stream API
-Conhecendo as operações
+Visão geral: Classe Anônima - Functional Interface - Lambda - Method Reference,
+Stream API e
+Conhecendo as operações.
