@@ -8,6 +8,7 @@ como também alguns exemplares de programas usando, classes, métodos e interfac
 Na pasta dio.com.br encontra-se algumas resoluções dos exercícios propostos do CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA. Curso este oferecido pela plataforma de cursos online [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/home) e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java da trilho do Bootcamps da GFT.
 
 🔸 Visão geral com alguns exemplates de programas simples que mostram como usar: Java Collections Framework.
+
 🔸 List
 Coleção com iterações ordenadas: List - 
 Conhecendo alguns dos métodos,
