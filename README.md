@@ -9,22 +9,22 @@ Na pasta dio.com.br encontra-se algumas resoluções dos exercícios propostos d
 
 🔸 Visão geral com alguns exemplates de programas simples que mostram como usar: Java Collections Framework.
 
-🔸 List
+🔸 List ->
 Coleção com iterações ordenadas: List - 
 Conhecendo alguns dos métodos,
 Ordenação de dados por meio da coleção List.
 
-🔸 Set
+🔸 Set ->
 Coleção com singularidade: Set - 
 Conhecendo alguns dos métodos,
 Ordenação de dados por meio da coleção Set.
 
-🔸 Map
+🔸 Map ->
 Coleção de pares: Map - 
 Conhecendo alguns dos métodos,
 Ordenação dos dados por meio da coleção Map.
 
-🔸 Stream API
+🔸 Stream API ->
 Visão geral: Classe Anônima - Functional Interface - Lambda - Method Reference,
 Stream API e
 Conhecendo as operações.
