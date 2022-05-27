@@ -1,3 +1,7 @@
+import java.time.format.DateTimeFormatter;
+import java.util.ArrayList;
+import java.util.List;
+
 public abstract class Conta extends Banco implements IFConta {
 
     private static final int AGENCIA_PADRAO = 1;
@@ -7,6 +11,9 @@ public abstract class Conta extends Banco implements IFConta {
     protected double saldo;
     protected double limite;
     protected Cliente cliente;
+    List<Double> addValor = new ArrayList<>();
+    DateTimeFormatter dataAtual = DateTimeFormatter.ofPattern("dd/MM/yyyy - HH:mm:ss");
+
 
     public Conta(Cliente cliente) {
         super();
@@ -21,18 +28,21 @@ public abstract class Conta extends Banco implements IFConta {
             throw new IllegalArgumentException("Saldo insuficiente!");
         }else{
             saldo -= valor;
+            addValor.add(saldo);
         }
     }
 
     @Override
     public void depositar(double valor) {
         saldo += valor + limite;
+        addValor.add(saldo);
     }
 
     @Override
     public void transferir(double valor, IFConta contaDestino) {
         this.sacar(valor);
         contaDestino.depositar(valor);
+        addValor.add(valor);
     }
 
     public int getAgencia() {
@@ -52,7 +62,7 @@ public abstract class Conta extends Banco implements IFConta {
     }
 
     public double getSaldo() {
-        return saldo + limite;
+        return  saldo + limite;
     }
 
     protected void imprimirInforGeral() {
@@ -63,6 +73,18 @@ public abstract class Conta extends Banco implements IFConta {
         System.out.printf("Cpf: %s%n", this.cliente.getCpf());
         System.out.printf("Limite: R$ %.2f%n", this.limite);
         System.out.printf("Saldo: R$ %.2f%n", this.saldo);
+        System.out.printf("=====================================%n%n");
+    }
+
+    protected void imprimirExtratoGeral(){
+        super.imprimirNomeBanco();
+        System.out.printf("Agência: %d%n", this.agencia);
+        System.out.printf("Número: %d%n", this.numero);
+        System.out.printf("Titular: %s%n", this.cliente.getNome() + " " + this.cliente.getSobreNome());
+        for (Double valor : addValor){
+            System.out.printf("- R$ %.2f%n", valor);
+        }
+        System.out.printf("=====================================%n%n");
     }
 
 }

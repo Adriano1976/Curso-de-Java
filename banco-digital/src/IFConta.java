@@ -7,4 +7,5 @@ public interface IFConta {
     void transferir(double valor, IFConta contaDestino);
 
     void imprimirSaldo();
+    void imprimirExtrato();
 }
