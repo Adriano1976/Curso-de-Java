@@ -49,7 +49,7 @@ public class MainContas {
         contaPoupanca02.imprimirSaldo();
 
 
-        // Cliente da conta 2 executa transferência de um valor da cc. Para cp.
+        // Cliente da conta 2 executa transference de um valor da cc. Para cp.
         try {
             contaCorrente02.transferir(50, contaPoupanca01);
         } catch (IllegalArgumentException e) {
