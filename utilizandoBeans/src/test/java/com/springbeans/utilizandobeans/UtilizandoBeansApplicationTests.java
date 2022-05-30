@@ -1,4 +1,4 @@
-package com.example.utilizandobeans;
+package com.springbeans.utilizandobeans;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

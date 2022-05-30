@@ -1,4 +1,4 @@
-package com.example.utilizandobeans;
+package com.springbeans.utilizandobeans;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -12,4 +12,8 @@ public class AppConfig {
         return new Livro();
     }
     // <bean id="livro" class="com.example.utilizandobeans.Livro"/>
+    @Bean
+    public AutorLivro getAutorLivro(){
+        return new Autor();
+    }
 }

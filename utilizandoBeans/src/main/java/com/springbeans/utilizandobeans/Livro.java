@@ -1,9 +1,15 @@
-package com.example.utilizandobeans;
+package com.springbeans.utilizandobeans;
+
+import org.springframework.beans.factory.annotation.Autowired;
 
 public class Livro {
 
     private String nome;
     private String codigo;
+
+    @Autowired
+    AutorLivro autorLivro;
+
 
     public Livro() {
     }
@@ -11,6 +17,15 @@ public class Livro {
     public Livro(String nome, String codigo) {
         this.nome = nome;
         this.codigo = codigo;
+    }
+
+
+    public AutorLivro getAutorLivro() {
+        return autorLivro;
+    }
+
+    public void setAutorLivro(AutorLivro autorLivro) {
+        this.autorLivro = autorLivro;
     }
 
     public String getNome() {
@@ -31,5 +46,6 @@ public class Livro {
 
     public void exibir(){
         System.out.println(this.nome + " - " + this.codigo);
+        autorLivro.exibirAutor();
     }
 }
