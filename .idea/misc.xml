@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/Utilizando-springbeans/pom.xml" />
         <option value="$PROJECT_DIR$/utilizandoBeans/pom.xml" />
+        <option value="$PROJECT_DIR$/injecaoDeDependencia/pom.xml" />
       </list>
     </option>
   </component>

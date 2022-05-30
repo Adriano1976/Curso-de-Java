@@ -7,14 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="utilizandoBeans" />
+        <module name="injecaoDeDependencia" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="injecaoDeDependencia" target="17" />
       <module name="utilizandoBeans" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="injecaoDeDependencia" options="-parameters" />
       <module name="utilizandoBeans" options="-parameters" />
     </option>
   </component>
