@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" filepath="$PROJECT_DIR$/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio.com.br/dio.com.br.iml" filepath="$PROJECT_DIR$/dio.com.br/dio.com.br.iml" />
       <module fileurl="file://$PROJECT_DIR$/injecaoDeDependencia/injecaoDeDependencia.iml" filepath="$PROJECT_DIR$/injecaoDeDependencia/injecaoDeDependencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-spring/projeto-spring.iml" filepath="$PROJECT_DIR$/projeto-spring/projeto-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" filepath="$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" />
     </modules>
   </component>

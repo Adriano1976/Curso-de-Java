@@ -8,10 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="utilizandoBeans" />
         <module name="injecaoDeDependencia" />
+        <module name="projeto-spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="injecaoDeDependencia" target="17" />
+      <module name="projeto-spring" target="17" />
       <module name="utilizandoBeans" target="17" />
     </bytecodeTargetLevel>
   </component>
