@@ -11,22 +11,23 @@ import main.java.padroes.projetospring.model.Endereco;
 import main.java.padroes.projetospring.model.IFClienteRepository;
 import main.java.padroes.projetospring.model.IFEnderecoRepository;
 import main.java.padroes.projetospring.service.IFClienteService;
-import main.java.padroes.projetospring.service.IFViaCepService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;
 
 @Service
-public class ClienteServiceImplement implements IFClienteService {
+public class ClienteService implements IFClienteService {
 
     // Singleton: Injetar os componentes do Spring com @Autowired.
-    @Autowired
-    private IFClienteRepository clienteRepository;
-    @Autowired
-    private IFEnderecoRepository enderecoRepository;
-    @Autowired
-    private IFViaCepService viaCepService;
+    private final IFClienteRepository clienteRepository;
+    private final IFEnderecoRepository enderecoRepository;
+    private final ViaCEPClient viaCEPClient;
+
+    public ClienteService(IFClienteRepository clienteRepository, IFEnderecoRepository enderecoRepository, ViaCEPClient viaCEPClient) {
+        this.clienteRepository = clienteRepository;
+        this.enderecoRepository = enderecoRepository;
+        this.viaCEPClient = viaCEPClient;
+    }
 
     // Strategy: Implementar os métodos definidos na interface.
     // Facade: Abstrair integrações com subsistemas, provendo uma interface simples.
@@ -40,7 +41,7 @@ public class ClienteServiceImplement implements IFClienteService {
     public Cliente buscarPorId(Long id) {
         // Buscar Cliente por ID.
         Optional<Cliente> cliente = clienteRepository.findById(id);
-        return cliente.get();
+        return cliente;
     }
 
     @Override
@@ -69,7 +70,7 @@ public class ClienteServiceImplement implements IFClienteService {
         String cep = cliente.getEndereco().getCep();
         Endereco endereco = enderecoRepository.findById(cep).orElseGet(() -> {
             // Caso não exista, integrar com o ViaCEP e persistir o retorno.
-            Endereco novoEndereco = viaCepService.consultarCep(cep);
+            Endereco novoEndereco = viaCEPClient.buscaEnderecoPor(cep);
             enderecoRepository.save(novoEndereco);
             return novoEndereco;
         });
