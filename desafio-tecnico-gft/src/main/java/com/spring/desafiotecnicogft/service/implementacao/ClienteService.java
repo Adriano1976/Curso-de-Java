@@ -4,13 +4,15 @@ Spring (via {@link autowired}). Com isso, como essa classe é um {@link Service}
 tratada como um <b>Singleton</b>.
  */
 
-package main.java.padroes.projetospring.service.implementacao;
+package com.spring.desafiotecnicogft.service.implementacao;
 
-import main.java.padroes.projetospring.model.Cliente;
-import main.java.padroes.projetospring.model.Endereco;
-import main.java.padroes.projetospring.model.IFClienteRepository;
-import main.java.padroes.projetospring.model.IFEnderecoRepository;
-import main.java.padroes.projetospring.service.IFClienteService;
+import com.spring.desafiotecnicogft.model.Cliente;
+import com.spring.desafiotecnicogft.model.Endereco;
+import com.spring.desafiotecnicogft.model.IFClienteRepository;
+import com.spring.desafiotecnicogft.model.IFEnderecoRepository;
+import com.spring.desafiotecnicogft.service.IFClienteService;
+import com.spring.desafiotecnicogft.service.IFViaCepService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;
@@ -19,15 +21,12 @@ import java.util.Optional;
 public class ClienteService implements IFClienteService {
 
     // Singleton: Injetar os componentes do Spring com @Autowired.
-    private final IFClienteRepository clienteRepository;
-    private final IFEnderecoRepository enderecoRepository;
-    private final ViaCEPClient viaCEPClient;
-
-    public ClienteService(IFClienteRepository clienteRepository, IFEnderecoRepository enderecoRepository, ViaCEPClient viaCEPClient) {
-        this.clienteRepository = clienteRepository;
-        this.enderecoRepository = enderecoRepository;
-        this.viaCEPClient = viaCEPClient;
-    }
+    @Autowired
+    private IFClienteRepository clienteRepository;
+    @Autowired
+    private IFEnderecoRepository enderecoRepository;
+    @Autowired
+    private IFViaCepService viaCepService;
 
     // Strategy: Implementar os métodos definidos na interface.
     // Facade: Abstrair integrações com subsistemas, provendo uma interface simples.
@@ -41,7 +40,7 @@ public class ClienteService implements IFClienteService {
     public Cliente buscarPorId(Long id) {
         // Buscar Cliente por ID.
         Optional<Cliente> cliente = clienteRepository.findById(id);
-        return cliente;
+        return cliente.get();
     }
 
     @Override
@@ -70,7 +69,7 @@ public class ClienteService implements IFClienteService {
         String cep = cliente.getEndereco().getCep();
         Endereco endereco = enderecoRepository.findById(cep).orElseGet(() -> {
             // Caso não exista, integrar com o ViaCEP e persistir o retorno.
-            Endereco novoEndereco = viaCEPClient.buscaEnderecoPor(cep);
+            Endereco novoEndereco = viaCepService.consultarCep(cep);
             enderecoRepository.save(novoEndereco);
             return novoEndereco;
         });

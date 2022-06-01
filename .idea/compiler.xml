@@ -6,19 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="desafio-tecnico-gft" />
         <module name="utilizandoBeans" />
+        <module name="desafio-tecnico-GFT" />
         <module name="injecaoDeDependencia" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="desafio-tecnico-gft" target="17" />
+      <module name="desafio-tecnico-GFT" target="17" />
       <module name="injecaoDeDependencia" target="17" />
       <module name="utilizandoBeans" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="desafio-tecnico-GFT" options="-parameters" />
       <module name="desafio-tecnico-gft" options="-parameters" />
       <module name="injecaoDeDependencia" options="-parameters" />
       <module name="utilizandoBeans" options="-parameters" />

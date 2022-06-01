@@ -1,4 +1,4 @@
-package main.java.padroes.projetospring.model;
+package com.spring.desafiotecnicogft.model;
 
 import javax.persistence.*;
 

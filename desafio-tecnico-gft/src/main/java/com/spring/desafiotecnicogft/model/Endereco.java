@@ -11,7 +11,7 @@ jsonscheme2pojo.org, para isso, usamos o JSON de retorna da API DO viaCEP.
 
  */
 
-package main.java.padroes.projetospring.model;
+package com.spring.desafiotecnicogft.model;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
@@ -26,6 +26,10 @@ public class Endereco {
     private String bairro;
     private String localidade;
     private String uf;
+    private String ibge;
+    private String gia;
+    private String ddd;
+    private String siafi;
 
 
     public String getCep() {
@@ -76,16 +80,36 @@ public class Endereco {
         this.uf = uf;
     }
 
-    @Override
-    public String toString() {
-        return "Endereco{" +
-                "cep='" + cep + '\'' +
-                ", logradouro='" + logradouro + '\'' +
-                ", complemento='" + complemento + '\'' +
-                ", bairro='" + bairro + '\'' +
-                ", localidade='" + localidade + '\'' +
-                ", uf='" + uf + '\'' +
-                '}';
+    public String getIbge() {
+        return ibge;
+    }
+
+    public void setIbge(String ibge) {
+        this.ibge = ibge;
+    }
+
+    public String getGia() {
+        return gia;
+    }
+
+    public void setGia(String gia) {
+        this.gia = gia;
+    }
+
+    public String getDdd() {
+        return ddd;
+    }
+
+    public void setDdd(String ddd) {
+        this.ddd = ddd;
+    }
+
+    public String getSiafi() {
+        return siafi;
+    }
+
+    public void setSiafi(String siafi) {
+        this.siafi = siafi;
     }
 }
 
