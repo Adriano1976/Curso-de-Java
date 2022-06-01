@@ -1,0 +1,8 @@
+APPLICATION FAILED TO START:
+## Description:
+- Field numeroService in com.spring.desafiotecnicogft.service.implementacao.ClienteService
+required a bean of type 'com.spring.desafiotecnicogft.service.IFNumeroService' that could not be found.
+## The injection point has the following annotations:
+- @org.springframework.beans.factory.annotation.Autowired(required=true)
+## Action:
+- Consider defining a bean of type 'com.spring.desafiotecnicogft.service.IFNumeroService' in your configuration.

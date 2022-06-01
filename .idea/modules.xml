@@ -9,8 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/banco-digital/banco-digital.iml" filepath="$PROJECT_DIR$/banco-digital/banco-digital.iml" />
       <module fileurl="file://$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/class-object-method/class-object-method.iml" filepath="$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/class-object-method/class-object-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" filepath="$PROJECT_DIR$/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/desafio-tecnico-GFT/desafio-tecnico-GFT.iml" filepath="$PROJECT_DIR$/desafio-tecnico-GFT/desafio-tecnico-GFT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-tecnico-GFT/desafio-tecnico-gft.iml" filepath="$PROJECT_DIR$/desafio-tecnico-GFT/desafio-tecnico-gft.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio.com.br/dio.com.br.iml" filepath="$PROJECT_DIR$/dio.com.br/dio.com.br.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-tecnico-gft/gft/gft.iml" filepath="$PROJECT_DIR$/desafio-tecnico-gft/gft/gft.iml" />
       <module fileurl="file://$PROJECT_DIR$/injecaoDeDependencia/injecaoDeDependencia.iml" filepath="$PROJECT_DIR$/injecaoDeDependencia/injecaoDeDependencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" filepath="$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" />
     </modules>

@@ -19,5 +19,6 @@ public class DesafioTecnicoGftApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DesafioTecnicoGftApplication.class, args);
+
     }
 }
