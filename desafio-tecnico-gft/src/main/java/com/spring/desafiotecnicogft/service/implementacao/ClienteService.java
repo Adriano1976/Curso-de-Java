@@ -34,12 +34,10 @@ public class ClienteService implements IFClienteService {
     private IFClienteRepository clienteRepository;
     @Autowired
     private IFEnderecoRepository enderecoRepository;
-
     @Autowired
     private IFTelefoneRepository telefoneRepository;
     @Autowired
     private IFViaCepService viaCepService;
-
     @Autowired
     private IFNumeroService numeroService;
 
