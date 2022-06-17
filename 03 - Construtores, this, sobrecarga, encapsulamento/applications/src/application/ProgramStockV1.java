@@ -1,3 +1,5 @@
+package application;
+
 import entities.ProductV1;
 
 import java.util.Locale;
