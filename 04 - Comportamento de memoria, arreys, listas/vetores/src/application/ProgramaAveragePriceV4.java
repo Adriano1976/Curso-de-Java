@@ -32,7 +32,7 @@ public class ProgramaAveragePriceV4 {
         }
 
         double sum = 0.0;
-        // Obs.: Para cada objeto 'product' contdo em vect, faça:
+        // Obs.: Para cada objeto 'product' contido em vect, faça:
         for (Product product : vect) {
             sum += product.getPrice();
         }
