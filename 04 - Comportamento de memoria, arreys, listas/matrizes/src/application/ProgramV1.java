@@ -19,6 +19,7 @@ public class ProgramV1 {
         int[][] mat = new int[num][num];
 
         System.out.println("Enter the numbers in the matrix: ");
+        // Aqui foi refatorado a variável 'num' por 'mat.length'.
         for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {
                 mat[i][j] = scanner.nextInt();
@@ -26,12 +27,14 @@ public class ProgramV1 {
         }
 
         System.out.println("Main Diagonal: ");
+        // Aqui foi refatorado a variável 'num' por 'mat.length'.
         for (int i = 0; i < mat.length; i++) {
             System.out.print(mat[i][i] + " ");
         }
         System.out.println();
 
         int count = 0;
+        // Aqui foi refatorado a variável 'num' por 'mat.length'.
         for (int i = 0; i < mat.length; i++) {
             for (int j = 0; j < mat[i].length; j++) {
                 if (mat[i][j] < 0) {
