@@ -20,9 +20,13 @@
       <module fileurl="file://$PROJECT_DIR$/dio.com.br/dio.com.br.iml" filepath="$PROJECT_DIR$/dio.com.br/dio.com.br.iml" />
       <module fileurl="file://$PROJECT_DIR$/06 - Usando Enums e composições/enumeration/enumeration.iml" filepath="$PROJECT_DIR$/06 - Usando Enums e composições/enumeration/enumeration.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-tecnico-gft/gft/gft.iml" filepath="$PROJECT_DIR$/desafio-tecnico-gft/gft/gft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV1/inherianceV1.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV1/inherianceV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV2/inherianceV2.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV2/inherianceV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV3/inherianceV3.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV3/inherianceV3.iml" />
       <module fileurl="file://$PROJECT_DIR$/injecaoDeDependencia/injecaoDeDependencia.iml" filepath="$PROJECT_DIR$/injecaoDeDependencia/injecaoDeDependencia.iml" />
       <module fileurl="file://$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/listas/listas.iml" filepath="$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/listas/listas.iml" />
       <module fileurl="file://$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/matrizes/matrizes.iml" filepath="$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/matrizes/matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" filepath="$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/vetores/vetores.iml" filepath="$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/vetores/vetores.iml" />
     </modules>
