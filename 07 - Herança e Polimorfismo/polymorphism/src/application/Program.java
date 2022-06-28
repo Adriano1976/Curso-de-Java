@@ -34,9 +34,11 @@ public class Program {
             if (ch == 'y' || ch == 'Y') {
                 System.out.print("Additional charge: ");
                 double additionalCharge = scanner.nextDouble();
-                list.add(new OutsourcedEmployee(name, hours, valuePerHour, additionalCharge));
+                // Polimorfismo é recurso que permite que variáveis de um mesmo tipo mais genérico possam apontar para objetos de tipos específicos.
+                list.add(new OutsourcedEmployee(name, hours, valuePerHour, additionalCharge)); // Product added to the child class.
             } else {
-                list.add(new Employee(name, hours, valuePerHour));
+                // Polimorfismo é recurso que permite que variáveis de um mesmo tipo mais genérico possam apontar para objetos de tipos específicos.
+                list.add(new Employee(name, hours, valuePerHour)); // Product added to the mother class.
             }
         }
 
