@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/JOptionPane/JOptionPane.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01 - Introdução de Entrada e Saída de dados/System-out-print/System-out-print.iml" filepath="$PROJECT_DIR$/01 - Introdução de Entrada e Saída de dados/System-out-print/System-out-print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/System-out-print/System-out-print.iml" filepath="$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/System-out-print/System-out-print.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" filepath="$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/application/application.iml" filepath="$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/application/application.iml" />
       <module fileurl="file://$PROJECT_DIR$/03 - Construtores, this, sobrecarga, encapsulamento/applications/applications.iml" filepath="$PROJECT_DIR$/03 - Construtores, this, sobrecarga, encapsulamento/applications/applications.iml" />
