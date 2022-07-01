@@ -49,5 +49,6 @@ public class Program {
         }
 
         scanner.close();
+
     }
 }
