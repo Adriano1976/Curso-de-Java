@@ -1,4 +1,6 @@
-// A classe Account com um construtor que inicializa o nome.
+package entities;
+
+// A classe entities.Account com um construtor que inicializa o nome.
 public class Account {
     private String name; // Variável de instância.
 
@@ -16,4 +18,4 @@ public class Account {
     public String getName() {
         return name;
     }
-} // fim da classe Account.
+} // fim da classe entities.Account.

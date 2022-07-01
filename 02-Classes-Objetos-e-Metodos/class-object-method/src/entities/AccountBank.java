@@ -1,4 +1,4 @@
-// Classe AccountBank com uma variável de instância balance do tipo double e um construtor
+package entities;// Classe entities.AccountBank com uma variável de instância balance do tipo double e um construtor
 // com método deposit que executa a validator.
 
 public class AccountBank {
@@ -6,7 +6,7 @@ public class AccountBank {
     private String name; // variável de instância
     private double balance; // variável de instância
 
-    // Construtor de AccountBank que recebe dois parâmetros
+    // Construtor de entities.AccountBank que recebe dois parâmetros
     public AccountBank(String name, double balance) {
 
         this.name = name; // atribui 'name' á variável de instância 'name'
@@ -37,4 +37,4 @@ public class AccountBank {
     public String getName() {
         return name; // retorna o valor de 'name' ao chamador.
     } // fim do método getName
-} // fim da classe AccountBank
+} // fim da classe entities.AccountBank

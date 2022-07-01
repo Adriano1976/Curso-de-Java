@@ -1,4 +1,6 @@
-// Entrada e saída de numeros de ponto flutuante com objetos AccountSaldo
+package application;// Entrada e saída de numeros de ponto flutuante com objetos entities.AccountSaldo
+
+import entities.AccountSaldo;
 
 import java.util.Scanner;
 
@@ -33,4 +35,4 @@ public class AccountSaldoTest {
         System.out.printf("Correntista2: %s - Saldo: R$ %.2f \n", account2.getName(), account2.getBalance());
 
     } // fim de main
-} // fim da classe AccountSaldoTest
+} // fim da classe application.AccountSaldoTest

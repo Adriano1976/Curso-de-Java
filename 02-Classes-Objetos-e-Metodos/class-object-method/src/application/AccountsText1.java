@@ -1,4 +1,6 @@
-// Cria e manipula um objeto Account.
+package application;// Cria e manipula um objeto entities.Account.
+
+import entities.Accounts;
 
 import java.util.Scanner;
 
@@ -9,7 +11,7 @@ public class AccountsText1 {
         // Cria um objeto Scanner para obter entrada a partir da janela de comando
         Scanner input = new Scanner(System.in);
 
-        // Cria um objeto Account e o atribui a myAccount.
+        // Cria um objeto entities.Account e o atribui a myAccount.
         Accounts myAccount = new Accounts();
 
         // Exibe o valor inicial do nome (null)

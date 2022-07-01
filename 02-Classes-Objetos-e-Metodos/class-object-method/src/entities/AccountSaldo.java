@@ -1,12 +1,12 @@
-
-// Classe AccountSaldo com uma variável de instância balance do tipo double e um construtor
+package entities;
+// Classe entities.AccountSaldo com uma variável de instância balance do tipo double e um construtor
 // e método deposit que executa a validator.
 
 public class AccountSaldo {
     private String name; // variável de instância
     private double balance; // variável de instância
 
-    // Construtor de AccountSaldo que recebe dois parâmetros
+    // Construtor de entities.AccountSaldo que recebe dois parâmetros
     public AccountSaldo(String name, double balance) {
 
         this.name = name; // atribui name à variável de instância name
@@ -39,4 +39,4 @@ public class AccountSaldo {
         return name; // retorna o valor de name ao chamador
     } // fim do método getName
 
-} // fim da classe AccountSaldo
+} // fim da classe entities.AccountSaldo

@@ -3,14 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/JOptionPane/JOptionPane.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/System-out-print/System-out-print.iml" filepath="$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/System-out-print/System-out-print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" filepath="$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/application/application.iml" filepath="$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" />
       <module fileurl="file://$PROJECT_DIR$/03 - Construtores, this, sobrecarga, encapsulamento/applications/applications.iml" filepath="$PROJECT_DIR$/03 - Construtores, this, sobrecarga, encapsulamento/applications/applications.iml" />
       <module fileurl="file://$PROJECT_DIR$/banco-digital/banco-digital.iml" filepath="$PROJECT_DIR$/banco-digital/banco-digital.iml" />
       <module fileurl="file://$PROJECT_DIR$/05 - Manipulando datas com Date e Calendar/calendar/calendar.iml" filepath="$PROJECT_DIR$/05 - Manipulando datas com Date e Calendar/calendar/calendar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/class-object-method/class-object-method.iml" filepath="$PROJECT_DIR$/02 - Introdução de Classes, Objetos e Métodos/class-object-method/class-object-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/class-object-method/class-object-method.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/class-object-method/class-object-method.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" filepath="$PROJECT_DIR$/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" />
       <module fileurl="file://$PROJECT_DIR$/06 - Usando Enums e composições/composition_1/composition_1.iml" filepath="$PROJECT_DIR$/06 - Usando Enums e composições/composition_1/composition_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/06 - Usando Enums e composições/composition_2/composition_2.iml" filepath="$PROJECT_DIR$/06 - Usando Enums e composições/composition_2/composition_2.iml" />
@@ -30,6 +29,8 @@
       <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism2/polymorphism2.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism2/polymorphism2.iml" />
       <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism3/polymorphism3.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism3/polymorphism3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/print/print.iml" filepath="$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/print/print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/scanner/scanner.iml" filepath="$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/scanner/scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" filepath="$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/vetores/vetores.iml" filepath="$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/vetores/vetores.iml" />
     </modules>

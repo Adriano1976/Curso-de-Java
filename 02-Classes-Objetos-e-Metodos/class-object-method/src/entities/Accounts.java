@@ -1,3 +1,5 @@
+package entities;
+
 public class Accounts {
 
     // método para definir o nome do objeto
@@ -14,4 +16,4 @@ public class Accounts {
 
         return name; // retorna valor do nome para o chamador
     }
-} // fim da classe Account
+} // fim da classe entities.Account
