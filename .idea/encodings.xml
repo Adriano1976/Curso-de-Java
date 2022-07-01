@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/desafio-tecnico-gft/gft/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/desafio-tecnico-gft/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/desafio-tecnico-gft/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/injecaoDeDependencia/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/utilizandoBeans/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/desafio-tecnico-GFT/gft/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/desafio-tecnico-GFT/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/desafio-tecnico-GFT/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/injecaoDeDependencia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/utilizandoBeans/src/main/java" charset="UTF-8" />
   </component>
 </project>
