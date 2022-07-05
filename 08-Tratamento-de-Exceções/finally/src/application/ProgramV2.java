@@ -4,6 +4,9 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * Testando e analizando o conceito de como funciona o tratamento ao abrir um arquivo e ocorre um erro.
+ */
 public class ProgramV2 {
 
     public static void main(String[] args) {
