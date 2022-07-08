@@ -3,36 +3,49 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileReader-BufferedReader/FileReader-BufferedReader.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileReader-BufferedReader/FileReader-BufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileWriter-BufferedWriter/FileWriter-BufferedWriter.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileWriter-BufferedWriter/FileWriter-BufferedWriter.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ListFiles/ListFiles.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ListFiles/ListFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectAccount/ProjectAccount.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectAccount/ProjectAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Interfaces/ProjectContractV1/ProjectContractV1.iml" filepath="$PROJECT_DIR$/10-Interfaces/ProjectContractV1/ProjectContractV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Interfaces/ProjectContractV2BR/ProjectContractV2BR.iml" filepath="$PROJECT_DIR$/10-Interfaces/ProjectContractV2BR/ProjectContractV2BR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectReservation/ProjectReservation.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectReservation/ProjectReservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" filepath="$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-Construtores-this-sobrecarga-encapsulamento/applications/applications.iml" filepath="$PROJECT_DIR$/03-Construtores-this-sobrecarga-encapsulamento/applications/applications.iml" />
-      <module fileurl="file://$PROJECT_DIR$/banco-digital/banco-digital.iml" filepath="$PROJECT_DIR$/banco-digital/banco-digital.iml" />
-      <module fileurl="file://$PROJECT_DIR$/05 - Manipulando datas com Date e Calendar/calendar/calendar.iml" filepath="$PROJECT_DIR$/05 - Manipulando datas com Date e Calendar/calendar/calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Construtores-This-Sobrecarga-Encapsulamento/applications/applications.iml" filepath="$PROJECT_DIR$/03-Construtores-This-Sobrecarga-Encapsulamento/applications/applications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/banco-digital/banco-digital.iml" filepath="$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/banco-digital/banco-digital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Date-e-Calendar/calendar/calendar.iml" filepath="$PROJECT_DIR$/05-Date-e-Calendar/calendar/calendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/class-object-method/class-object-method.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/class-object-method/class-object-method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" filepath="$PROJECT_DIR$/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/06 - Usando Enums e composições/composition_1/composition_1.iml" filepath="$PROJECT_DIR$/06 - Usando Enums e composições/composition_1/composition_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/06 - Usando Enums e composições/composition_2/composition_2.iml" filepath="$PROJECT_DIR$/06 - Usando Enums e composições/composition_2/composition_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/06 - Usando Enums e composições/composition_3/composition_3.iml" filepath="$PROJECT_DIR$/06 - Usando Enums e composições/composition_3/composition_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/05 - Manipulando datas com Date e Calendar/date/date.iml" filepath="$PROJECT_DIR$/05 - Manipulando datas com Date e Calendar/date/date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" filepath="$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/com.dio.inversaoDeControle/com.dio.inversaoDeControle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Enums-e-composições/composition_1/composition_1.iml" filepath="$PROJECT_DIR$/06-Enums-e-composições/composition_1/composition_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Enums-e-composições/composition_2/composition_2.iml" filepath="$PROJECT_DIR$/06-Enums-e-composições/composition_2/composition_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Enums-e-composições/composition_3/composition_3.iml" filepath="$PROJECT_DIR$/06-Enums-e-composições/composition_3/composition_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Date-e-Calendar/date/date.iml" filepath="$PROJECT_DIR$/05-Date-e-Calendar/date/date.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-tecnico-GFT/desafio-tecnico-gft.iml" filepath="$PROJECT_DIR$/desafio-tecnico-GFT/desafio-tecnico-gft.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dio.com.br/dio.com.br.iml" filepath="$PROJECT_DIR$/dio.com.br/dio.com.br.iml" />
-      <module fileurl="file://$PROJECT_DIR$/06 - Usando Enums e composições/enumeration/enumeration.iml" filepath="$PROJECT_DIR$/06 - Usando Enums e composições/enumeration/enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/dio.com.br/dio.com.br.iml" filepath="$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/dio.com.br/dio.com.br.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Enums-e-composições/enumeration/enumeration.iml" filepath="$PROJECT_DIR$/06-Enums-e-composições/enumeration/enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/finally/finally.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/finally/finally.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-tecnico-gft/gft/gft.iml" filepath="$PROJECT_DIR$/desafio-tecnico-gft/gft/gft.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV1/inherianceV1.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV1/inherianceV1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV2/inherianceV2.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV2/inherianceV2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV3/inherianceV3.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV3/inherianceV3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV4/inherianceV4.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/inherianceV4/inherianceV4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Herança-e-Polimorfismo/inherianceV1/inherianceV1.iml" filepath="$PROJECT_DIR$/07-Herança-e-Polimorfismo/inherianceV1/inherianceV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Herança-e-Polimorfismo/inherianceV2/inherianceV2.iml" filepath="$PROJECT_DIR$/07-Herança-e-Polimorfismo/inherianceV2/inherianceV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Herança-e-Polimorfismo/inherianceV3/inherianceV3.iml" filepath="$PROJECT_DIR$/07-Herança-e-Polimorfismo/inherianceV3/inherianceV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Herança-e-Polimorfismo/inherianceV4/inherianceV4.iml" filepath="$PROJECT_DIR$/07-Herança-e-Polimorfismo/inherianceV4/inherianceV4.iml" />
       <module fileurl="file://$PROJECT_DIR$/injecaoDeDependencia/injecaoDeDependencia.iml" filepath="$PROJECT_DIR$/injecaoDeDependencia/injecaoDeDependencia.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/listas/listas.iml" filepath="$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/listas/listas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/matrizes/matrizes.iml" filepath="$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/matrizes/matrizes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism/polymorphism.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism2/polymorphism2.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism2/polymorphism2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism3/polymorphism3.iml" filepath="$PROJECT_DIR$/07 - Herança e Polimorfismo/polymorphism3/polymorphism3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Vetores-Listas-Matrizes/listas/listas.iml" filepath="$PROJECT_DIR$/04-Vetores-Listas-Matrizes/listas/listas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Vetores-Listas-Matrizes/matrizes/matrizes.iml" filepath="$PROJECT_DIR$/04-Vetores-Listas-Matrizes/matrizes/matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Herança-e-Polimorfismo/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/07-Herança-e-Polimorfismo/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Herança-e-Polimorfismo/polymorphism2/polymorphism2.iml" filepath="$PROJECT_DIR$/07-Herança-e-Polimorfismo/polymorphism2/polymorphism2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Herança-e-Polimorfismo/polymorphism3/polymorphism3.iml" filepath="$PROJECT_DIR$/07-Herança-e-Polimorfismo/polymorphism3/polymorphism3.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/print/print.iml" filepath="$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/print/print.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/scanner/scanner.iml" filepath="$PROJECT_DIR$/01-Entrada-e-Saida-de-dados/scanner/scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/try-catch/try-catch.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/try-catch/try-catch.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" filepath="$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/vetores/vetores.iml" filepath="$PROJECT_DIR$/04 - Comportamento de memoria, arreys, listas/vetores/vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Vetores-Listas-Matrizes/vetores/vetores.iml" filepath="$PROJECT_DIR$/04-Vetores-Listas-Matrizes/vetores/vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Interfaces/withInterface/withInterface.iml" filepath="$PROJECT_DIR$/10-Interfaces/withInterface/withInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Interfaces/withoutInterface/withoutInterface.iml" filepath="$PROJECT_DIR$/10-Interfaces/withoutInterface/withoutInterface.iml" />
     </modules>
   </component>
 </project>
