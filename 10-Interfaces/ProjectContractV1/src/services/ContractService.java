@@ -8,7 +8,14 @@ import java.util.Date;
 
 public class ContractService {
 
-    private final OnlinePaymentService onlinePaymentService;
+    private OnlinePaymentService onlinePaymentService;
+
+    public ContractService() {
+    }
+
+    public OnlinePaymentService getOnlinePaymentService() {
+        return onlinePaymentService;
+    }
 
     public ContractService(OnlinePaymentService onlinePaymentService) {
         this.onlinePaymentService = onlinePaymentService;
