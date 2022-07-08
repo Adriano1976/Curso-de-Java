@@ -28,13 +28,16 @@ public class Program {
             System.out.print("Contract value: ");
             double totalValue = scanner.nextDouble();
 
+            //Criando o contrato com base nas info recebidas.
             Contract contract = new Contract(number, date, totalValue);
 
             System.out.print("Enter number of installments: ");
             int numberInstallments = scanner.nextInt();
 
+            //Criando o servico de pagamento conforme as normas do Paypal.
             ContractService contractService = new ContractService(new PaypalService());
 
+            //Processando o pagamento do contrato e criando o numero de parcelas desejadas (ainda nulas) dentro da lista de parcelas no contrato.
             contractService.processContract(contract, numberInstallments);
 
             System.out.println();
