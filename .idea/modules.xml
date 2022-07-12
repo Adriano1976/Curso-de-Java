@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Interfaces/DefaultMethods/DefaultMethods.iml" filepath="$PROJECT_DIR$/10-Interfaces/DefaultMethods/DefaultMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileReader-BufferedReader/FileReader-BufferedReader.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileReader-BufferedReader/FileReader-BufferedReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileWriter-BufferedWriter/FileWriter-BufferedWriter.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileWriter-BufferedWriter/FileWriter-BufferedWriter.iml" />
