@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileReader-BufferedReader/FileReader-BufferedReader.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileReader-BufferedReader/FileReader-BufferedReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileWriter-BufferedWriter/FileWriter-BufferedWriter.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileWriter-BufferedWriter/FileWriter-BufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Interfaces/Interface_AbstractClass/Interface_AbstractClass.iml" filepath="$PROJECT_DIR$/10-Interfaces/Interface_AbstractClass/Interface_AbstractClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ListFiles/ListFiles.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ListFiles/ListFiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectAccount/ProjectAccount.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectAccount/ProjectAccount.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectReservation/ProjectReservation.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectReservation/ProjectReservation.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" filepath="$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-Interfaces/VeryInterfaces/VeryInterfaces.iml" filepath="$PROJECT_DIR$/10-Interfaces/VeryInterfaces/VeryInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Construtores-This-Sobrecarga-Encapsulamento/applications/applications.iml" filepath="$PROJECT_DIR$/03-Construtores-This-Sobrecarga-Encapsulamento/applications/applications.iml" />
       <module fileurl="file://$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/banco-digital/banco-digital.iml" filepath="$PROJECT_DIR$/Digital-Innovation/Bootcamp/GFT-Start-5-Java/banco-digital/banco-digital.iml" />
