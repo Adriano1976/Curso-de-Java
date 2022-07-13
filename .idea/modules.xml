@@ -50,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/try-catch/try-catch.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/try-catch/try-catch.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" filepath="$PROJECT_DIR$/utilizandoBeans/utilizandoBeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-Vetores-Listas-Matrizes/vetores/vetores.iml" filepath="$PROJECT_DIR$/04-Vetores-Listas-Matrizes/vetores/vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/wildcardsGenerics/wildcardsGenerics.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/wildcardsGenerics/wildcardsGenerics.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/withInterface/withInterface.iml" filepath="$PROJECT_DIR$/10-Interfaces/withInterface/withInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/withoutInterface/withoutInterface.iml" filepath="$PROJECT_DIR$/10-Interfaces/withoutInterface/withoutInterface.iml" />
     </modules>
