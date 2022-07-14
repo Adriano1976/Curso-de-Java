@@ -16,6 +16,10 @@
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/ProjectContractV2BR/ProjectContractV2BR.iml" filepath="$PROJECT_DIR$/10-Interfaces/ProjectContractV2BR/ProjectContractV2BR.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectReservation/ProjectReservation.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectReservation/ProjectReservation.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_LogEntry/Project_LogEntry.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_LogEntry/Project_LogEntry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_HashSet/Set_HashSet.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_HashSet/Set_HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet/Set_TreeSet.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet/Set_TreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet_compareTo/Set_TreeSet_compareTo.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet_compareTo/Set_TreeSet_compareTo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" filepath="$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/VeryInterfaces/VeryInterfaces.iml" filepath="$PROJECT_DIR$/10-Interfaces/VeryInterfaces/VeryInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" />
