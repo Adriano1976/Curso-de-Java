@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV1/ComparatorV1.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV1/ComparatorV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV2/ComparatorV2.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV2/ComparatorV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV3/ComparatorV3.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV3/ComparatorV3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/DefaultMethods/DefaultMethods.iml" filepath="$PROJECT_DIR$/10-Interfaces/DefaultMethods/DefaultMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" />
