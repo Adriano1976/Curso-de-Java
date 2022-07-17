@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV1/ComparatorV1.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV1/ComparatorV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/DefaultMethods/DefaultMethods.iml" filepath="$PROJECT_DIR$/10-Interfaces/DefaultMethods/DefaultMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" />
@@ -11,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/Interface_AbstractClass/Interface_AbstractClass.iml" filepath="$PROJECT_DIR$/10-Interfaces/Interface_AbstractClass/Interface_AbstractClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ListFiles/ListFiles.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ListFiles/ListFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Map_HashMap/Map_HashMap.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Map_HashMap/Map_HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Map_LinkedHashMap/Map_LinkedHashMap.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Map_LinkedHashMap/Map_LinkedHashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Map_TreeMap/Map_TreeMap.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Map_TreeMap/Map_TreeMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectAccount/ProjectAccount.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectAccount/ProjectAccount.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/ProjectContractV1/ProjectContractV1.iml" filepath="$PROJECT_DIR$/10-Interfaces/ProjectContractV1/ProjectContractV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/ProjectContractV2BR/ProjectContractV2BR.iml" filepath="$PROJECT_DIR$/10-Interfaces/ProjectContractV2BR/ProjectContractV2BR.iml" />
@@ -18,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_Course/Project_Course.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_Course/Project_Course.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_LogEntry/Project_LogEntry.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_LogEntry/Project_LogEntry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_VoteReport/Project_VoteReport.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_VoteReport/Project_VoteReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_VotingReport/Project_VotingReport.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_VotingReport/Project_VotingReport.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_HashSet/Set_HashSet.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_HashSet/Set_HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet/Set_TreeSet.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet/Set_TreeSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet_compareTo/Set_TreeSet_compareTo.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet_compareTo/Set_TreeSet_compareTo.iml" />
