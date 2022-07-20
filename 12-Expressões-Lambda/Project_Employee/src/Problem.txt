@@ -1,0 +1,43 @@
+— Fazer um programa para ler os dados (nome, email e salário)
+de funcionários a partir de um arquivo em formato .csv.
+- Em seguida mostrar, em ordem alfabética, o email dos
+funcionários cujo salário seja superior a um dado valor
+fornecido pelo usuário.
+— Mostrar também a soma dos salários dos funcionários cujo
+nome começa com a letra 'M'.
+
+Input file:
+
+Maria,maria@gmail.com,3200.00
+Alex,alex@gmail.com,1900.00
+Marco,marco@gmail.com,1700.00
+Bob,bob@gmail.com,3500.00
+Anna,anna@gmail.com,2800.00
+Adriano,adriano@gmail.com,2350.00
+Neide,neideffeira@hotmail.com,2650.00
+Carlos,carlos@yahoo.com,3120.00
+Brendo,brendo@gmail.com,1950.00
+João,joao2020@gmail.com,2150.00
+Débora,debora@hotmail.com,1850.00
+Josefina,josefina76@gmail.com,2650.00
+Cristiano,cristiano@yahoo.com,2450.00
+Galileu,galibarcelar@gmail.com,2350.00
+Marlene,marleneyes@gmail.com,3050.00
+
+Execution:
+
+Enter full file path: C:\Users\ADRIANO\Dropbox\PC (2)\Documents\Dicas txt\ListEmployeeStream.txt
+Enter salary: 2000
+Email of people whose salary is more than 2000.00:
+adriano@gmail.com
+anna@gmail.com
+bob@gmail.com
+carlos@yahoo.com
+cristiano@yahoo.com
+galibarcelar@gmail.com
+joao2020@gmail.com
+josefina76@gmail.com
+maria@gmail.com
+marleneyes@gmail.com
+neideffeira@hotmail.com
+Sum of salary from people whose name starts with 'M': 7950.00
