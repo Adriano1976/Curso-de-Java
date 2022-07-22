@@ -4,31 +4,53 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV1/ComparatorV1.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV1/ComparatorV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV2/ComparatorV2.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV2/ComparatorV2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV3/ComparatorV3.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV3/ComparatorV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV3Best/ComparatorV3Best.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/ComparatorV3Best/ComparatorV3Best.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/Coursejdbc/Coursejdbc.iml" filepath="$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/Coursejdbc/Coursejdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/Curso-de-Java.iml" filepath="$PROJECT_DIR$/Curso-de-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/DefaultMethods/DefaultMethods.iml" filepath="$PROJECT_DIR$/10-Interfaces/DefaultMethods/DefaultMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/DeleteData/DeleteData.iml" filepath="$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/DeleteData/DeleteData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/EnterData/EnterData.iml" filepath="$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/EnterData/EnterData.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/File-Scanner/File-Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileReader-BufferedReader/FileReader-BufferedReader.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileReader-BufferedReader/FileReader-BufferedReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileWriter-BufferedWriter/FileWriter-BufferedWriter.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/FileWriter-BufferedWriter/FileWriter-BufferedWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/FilteredSum/FilteredSum.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/FilteredSum/FilteredSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/FunctionV1/FunctionV1.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/FunctionV1/FunctionV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/FunctionV2/FunctionV2.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/FunctionV2/FunctionV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/FunctionV3/FunctionV3.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/FunctionV3/FunctionV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/FunctionV4/FunctionV4.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/FunctionV4/FunctionV4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/FunctionV5Best/FunctionV5Best.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/FunctionV5Best/FunctionV5Best.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/InterfaceComparable/InterfaceComparable.iml" filepath="$PROJECT_DIR$/10-Interfaces/InterfaceComparable/InterfaceComparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/Interface_AbstractClass/Interface_AbstractClass.iml" filepath="$PROJECT_DIR$/10-Interfaces/Interface_AbstractClass/Interface_AbstractClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/JOptionPane/JOptionPane.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ListFiles/ListFiles.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ListFiles/ListFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/MakeConnection/MakeConnection.iml" filepath="$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/MakeConnection/MakeConnection.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Map_HashMap/Map_HashMap.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Map_HashMap/Map_HashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Map_LinkedHashMap/Map_LinkedHashMap.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Map_LinkedHashMap/Map_LinkedHashMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Map_TreeMap/Map_TreeMap.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Map_TreeMap/Map_TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/PipelineDemo/PipelineDemo.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/PipelineDemo/PipelineDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/PredicateV1/PredicateV1.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/PredicateV1/PredicateV1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/PredicateV2/PredicateV2.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/PredicateV2/PredicateV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/PredicateV3/PredicateV3.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/PredicateV3/PredicateV3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/PredicateV4/PredicateV4.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/PredicateV4/PredicateV4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/PredicateV5Best/PredicateV5Best.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/PredicateV5Best/PredicateV5Best.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectAccount/ProjectAccount.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectAccount/ProjectAccount.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/ProjectContractV1/ProjectContractV1.iml" filepath="$PROJECT_DIR$/10-Interfaces/ProjectContractV1/ProjectContractV1.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/ProjectContractV2BR/ProjectContractV2BR.iml" filepath="$PROJECT_DIR$/10-Interfaces/ProjectContractV2BR/ProjectContractV2BR.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectReservation/ProjectReservation.iml" filepath="$PROJECT_DIR$/08-Tratamento-de-Exceções/ProjectReservation/ProjectReservation.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" filepath="$PROJECT_DIR$/09-Trabalhando-com-Arquivos/ProjectSalesControl/ProjectSalesControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/Project_AveragePrice/Project_AveragePrice.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/Project_AveragePrice/Project_AveragePrice.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_Course/Project_Course.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_Course/Project_Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/Project_Employee/Project_Employee.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/Project_Employee/Project_Employee.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_LogEntry/Project_LogEntry.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_LogEntry/Project_LogEntry.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_VoteReport/Project_VoteReport.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_VoteReport/Project_VoteReport.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Project_VotingReport/Project_VotingReport.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Project_VotingReport/Project_VotingReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/RecoverData/RecoverData.iml" filepath="$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/RecoverData/RecoverData.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_HashSet/Set_HashSet.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_HashSet/Set_HashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet/Set_TreeSet.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet/Set_TreeSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet_compareTo/Set_TreeSet_compareTo.iml" filepath="$PROJECT_DIR$/11-Generics-Set-Map/Set_TreeSet_compareTo/Set_TreeSet_compareTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-Expressões-Lambda/StreamDemo/StreamDemo.iml" filepath="$PROJECT_DIR$/12-Expressões-Lambda/StreamDemo/StreamDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/Transactions/Transactions.iml" filepath="$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/Transactions/Transactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/UpdateData/UpdateData.iml" filepath="$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/UpdateData/UpdateData.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" filepath="$PROJECT_DIR$/Utilizando-springbeans/Utilizando-springbeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-Interfaces/VeryInterfaces/VeryInterfaces.iml" filepath="$PROJECT_DIR$/10-Interfaces/VeryInterfaces/VeryInterfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" filepath="$PROJECT_DIR$/02-Classes-Objetos-e-Metodos/application/application.iml" />

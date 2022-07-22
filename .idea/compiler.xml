@@ -14,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="desafio-tecnico-gft" target="17" />
+      <module name="EnterData" target="17" />
       <module name="gft" target="17" />
       <module name="injecaoDeDependencia" target="17" />
       <module name="utilizandoBeans" target="17" />
@@ -21,6 +22,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="MakeConnection" options="--add-exports java.desktop/sun.awt=ALL-UNNAMED" />
       <module name="desafio-tecnico-gft" options="-parameters" />
       <module name="gft" options="-parameters" />
       <module name="injecaoDeDependencia" options="-parameters" />
