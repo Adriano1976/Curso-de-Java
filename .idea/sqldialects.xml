@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/Coursejdbc/src/Application/DisplayCourse.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/DeleteData/src/Application/Program.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/EnterData/src/Application/Program.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/Project_SellerDepartment/src/model/dao/implement/DepartmentDaoJDBC.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/Project_SellerDepartment/src/model/dao/implement/SellerDaoJDBC.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/RecoverData/src/Application/Program.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/Transactions/src/Application/Program.java" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/13-Acesso-ao-Banco-de-Dados-com-JDBC/UpdateData/src/Application/Program.java" dialect="GenericSQL" />
