@@ -10,10 +10,26 @@
         <option value="$PROJECT_DIR$/projeto-spring/pom.xml" />
         <option value="$PROJECT_DIR$/desafio-tecnico-gft/pom.xml" />
         <option value="$PROJECT_DIR$/desafio-tecnico-gft/gft/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-JavaFX/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-ViewController/pom.xml" />
+        <option value="$PROJECT_DIR$/14-Interface-Grafica-com-JavaFX/demo-JavaFX/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-Alert/pom.xml" />
+        <option value="$PROJECT_DIR$/14-Interface-Grafica-com-JavaFX/demo-ViewController/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-TextField/pom.xml" />
+        <option value="$PROJECT_DIR$/AppStart/pom.xml" />
+        <option value="$PROJECT_DIR$/14-Interface-Grafica-com-JavaFX/demo-Alert/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-TexFilde/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-ComboBox/pom.xml" />
+        <option value="$PROJECT_DIR$/Aplication/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/14-Interface-Grafica-com-JavaFX/demo-Alert/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="zulu-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="ProjectType">

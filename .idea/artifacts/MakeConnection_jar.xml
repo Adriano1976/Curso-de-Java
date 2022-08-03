@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MakeConnection:jar">
+    <output-path>$PROJECT_DIR$/../../../../temp/dist</output-path>
+    <root id="archive" name="MakeConnection_jar.jar">
+      <element id="module-output" name="MakeConnection" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../java-libs/jdbc-connectors/mysql-connector-java-8.0.28.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../java-libs/jdbc-connectors/mysql-connector-java-5.1.47.jar" path-in-jar="/" />
+      <element id="library" level="application" name="mysql-connector-java-8.0.28" />
+    </root>
+  </artifact>
+</component>
