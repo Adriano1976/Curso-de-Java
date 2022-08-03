@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="421.0" prefWidth="699.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.application.workshop.SellerListController">
+    <Label prefHeight="39.0" prefWidth="141.0" text="Seller Registration" textAlignment="CENTER">
+        <font>
+          <Font name="System Bold" size="13.0" />
+        </font>
+        <padding>
+          <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+        </padding>
+      <VBox.margin>
+         <Insets bottom="10.0" right="10.0" top="10.0" />
+      </VBox.margin>
+    </Label>
+    <ToolBar prefHeight="48.0" prefWidth="627.0">
+        <Button fx:id="buttonNew" mnemonicParsing="false" onAction="#onButtonNewAction" prefHeight="25.0" prefWidth="90.0" text="New">
+         <font>
+            <Font size="13.0" />
+         </font></Button>
+      <VBox.margin>
+         <Insets />
+      </VBox.margin>
+    </ToolBar>
+    <TableView fx:id="SellerTableView" prefHeight="243.0" prefWidth="689.0">
+      <columns>
+          <TableColumn fx:id="tableColumnId" prefWidth="40.0" text="Id" />
+          <TableColumn fx:id="tableColumnName" prefWidth="116.0" text="Name" />
+         <TableColumn fx:id="tableColumnEmail" prefWidth="79.0" text="Email" />
+         <TableColumn fx:id="tableColumnBirthDate" prefWidth="95.0" text="Birth Date" />
+         <TableColumn fx:id="tableColumnDepartment" prefWidth="75.0" text="Department" />
+         <TableColumn fx:id="tableColumnBaseSalary" prefWidth="89.0" text="Base Salary" />
+         <TableColumn fx:id="tableColumnEDIT" prefWidth="62.0" />
+         <TableColumn fx:id="tableColumnREMOVE" prefWidth="95.0" />
+      </columns>
+    </TableView>
+</VBox>
