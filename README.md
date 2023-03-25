@@ -16,7 +16,7 @@
 
 Em resumo, estudar Java pode ser uma escolha inteligente para quem busca desenvolver habilidades técnicas em programação e explorar oportunidades em uma variedade de setores e carreiras.
 
-Exemplares de códigos criados e manipulados com conta própria de acordo com as instruções passada pelo livro Java Como Programar - volume 10, 
+Portanto, vejamos alguns exemplares de códigos criados e manipulados com conta própria de acordo com as instruções passada pelo livro Java Como Programar - volume 10, 
 como também alguns exemplares de programas usando, classes, métodos e interfaces do tipo Collections como List, Set, Map e outros.
 
 Na pasta dio.com.br encontra-se algumas resoluções dos exercícios propostos do CURSO INTRODUTÓRIO COLLECTIONS FRAMEWORK JAVA. Curso este oferecido pela plataforma de cursos online [DIGITAL INNOVATION ONE](https://web.digitalinnovation.one/home) e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java da trilha do Bootcamps da GFT. 
