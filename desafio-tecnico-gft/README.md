@@ -12,8 +12,8 @@
 
 <h3>Pensamento Computacional</h3>
 <p>A capacidade criativa, crítica e estratégica de utilizar as bases computacionais nas diferentes áreas de conhecimento para a resolução de problemas.<br>
-<img src="https://www.researchgate.net/profile/Carolina-Moreira-18/publication/337223452/figure/fig1/AS:824763496800256@1573650349341/Figura-1-Pilares-do-Pensamento-Computacional-Adaptado-de-Shoop-et-al-2016.ppm" width="600" height="400" alt="pensamento computacional">
-</p>
+
+![pensamento computacional](https://github.com/Adriano1976/Curso-de-Java/assets/17755195/a9f8f7a3-3cca-47e5-98a1-eaa0438f6ed0) </p>
 
 <h3>Programação Orientada a Objetos</h3>
 <p>Modelo de análise, projeto e programação baseado na aproximação entre o mundo real e o mundo virtual, através da criação e interação entre classes, atributos, métodos, objetos, entre outros.</p>
@@ -97,8 +97,6 @@ Se possível:<br>
 🐛 Encontrar e relatar issues<br>
 </p>
 
-
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
 
 
